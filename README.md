@@ -1,2 +1,2 @@
 # letter-project
-"Happy 6th baby!"
+"Happy 6th, baby!"
