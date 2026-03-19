@@ -1,4 +1,4 @@
-const message = `Happy sixth, baby koo! \n\nThank you for staying and believing in me every time I doubted my self. You were there for me when \nno one was. Baby, sobrang swerte ko talaga sa'yo, hindi ako mag-sasawang mahalin ka. I can't \nbelieve we've made it this far, baby. We're half a year na. \nI hope there's more months we'll enjoy together. Mahal na mahal kita baby ko. \n`;
+const message = `Happy sixth, baby koo! \n\nThank you for staying and believing in me every time I doubted my self. You were there for me when \nno one was. Baby, sobrang swerte ko talaga sa'yo, hindi ako mag-sasawang mahalin ka. I can't \nbelieve we've made it this far, baby. We're half a year na. \nI hope there's more months we'll enjoy together. Mahal na mahal kita baby ko. \nYou're not just someone I love, you're my comfort person, support system, my everything. \nI love you so much baby! `;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
